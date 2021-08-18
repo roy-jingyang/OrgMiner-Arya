@@ -1,2 +1,5 @@
-# OrgMiner-Arya
-[LEGACY] Visualize organizational models
+# OrgMiner
+
+*Note: You are viewing a legacy project.*
+
+This project is a legacy version of [OrdinoR-Arya](https://github.com/roy-jingyang/OrdinoR-Arya). 
